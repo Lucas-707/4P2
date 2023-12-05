@@ -1,0 +1,6 @@
+data/
+checkpoints/
+attn_heat/
+__pycache__/
+wandb/
+submission.csv
